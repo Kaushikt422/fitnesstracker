@@ -5,12 +5,7 @@ It can be hard to know how much or what kind of activity you need to stay health
 Users have to create an account to use the application. The user’s information is stored in a MySQL database. This information (height, weight, year of birth, gender) is used to calculate the recommended amount of calories they need to burn daily. They are able to add exercises done during their day, and a pie chart is used to show this daily activity. They can also view their entire history of exercises done.
 
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
-<img src="pic_trulli.jpg" alt="Italian Trulli">
-<img src="pic_trulli.jpg" alt="Italian Trulli">
-<img src="pic_trulli.jpg" alt="Italian Trulli">
-<img src="pic_trulli.jpg" alt="Italian Trulli">
-![image](https://github.com/user-attachments/assets/8d3e5065-71a8-4bf9-8bae-d3086ee6d25f)
+
 
 
 
