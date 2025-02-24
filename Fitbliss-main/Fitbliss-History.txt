@@ -1,0 +1,13 @@
+                          ---------- EXERCISE HISTORY ----------                          
+ 
+USERNAME             EXERCISE             DURATION        CALORIES        DATE            
+ 
+kaushikt422          Weight training      60              360             24-01-2025      
+kaushikt422          Running              20              240             24-01-2025      
+kaushikt422          Aerobics             8               64              24-01-2025      
+kaushikt422          Running              50              600             25-01-2025      
+kaushikt422          Cycling              8               96              25-01-2025      
+kaushikt422          Weight training      8               48              25-01-2025      
+kaushikt422          Aerobics             90              720             25-01-2025      
+kaushikt422          Aerobics             8               64              28-01-2025      
+kaushikt422          Running              88              1056            28-01-2025      
